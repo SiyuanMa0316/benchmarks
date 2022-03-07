@@ -1,4 +1,4 @@
-#have to use gcc to avoid error. Plenty of errors
+#have to use gcc to avoid error. Plenty of warnings
 NAME = xmalloc-test
 
 DEFAULT_LINKER =  -lpthread
